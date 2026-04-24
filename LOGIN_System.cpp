@@ -23,9 +23,9 @@ void registerUser() {
 bool loginUser() {
     string username, password, user, pass;
 
-    cout << "Enter username: ";
+    cout << "Enter username : ";
     cin >> username;
-    cout << "Enter password: ";
+    cout << "Enter password : ";
     cin >> password;
 
     // Open file in read mode
